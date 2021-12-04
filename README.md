@@ -1,3 +1,7 @@
+# This is your manual on way of React learning!
+
+### Let`s start!
+
 ## Preparation
 
 - Install [Node.js](https://nodejs.org/en/).
