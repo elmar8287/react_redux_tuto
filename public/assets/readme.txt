@@ -1,0 +1,1 @@
+all screenshots width is 300px
