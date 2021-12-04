@@ -10,5 +10,4 @@
 - `cd [name of app]` (note: if you created the github repo with README file, then you will have also a new one inside [name of app] folder)
 - `npm start` and if you see following screen, then you are on right way.
 <br>![screen](./src/img/scrn.PNG)
-- `npm install --save-dev @babel/core @babel/cli @babel/preset-env` install babel for correct working our code on old browsers
 - Set linter in folder `/.github/workflows/` in file `linters.yml`
