@@ -10,4 +10,4 @@
 - `cd [name of app]` (note: if you created the github repo with README file, then you will have also a new one inside [name of app] folder)
 - `npm start` and if you see following screen, then you are on right way.
 <br>![screen](./src/img/scrn.PNG)
-- Set linter in folder `/.github/workflows/` in file `linters.yml`
+- Set linter in folder `/.github/workflows/` in file `linters.yml` ([here is the link to file])
