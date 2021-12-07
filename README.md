@@ -20,12 +20,17 @@
 <br><br>![screen](./public/assets/structure.PNG)
 ### We can start
 
-- You shoul use `import React from 'react'` evertwhere `jsx` using
+- You shoul use `import React from 'react'` everywhere `jsx` using
 - Use arrow functions
 - Div the app to components
-- Use Uppercase names for components (sample: <Sample />)
+- Use Uppercase when give a name for a component 
+- Keep all components in folder `src/components`
+- Give name for components using `kebab style`, aka sample-sample-etc...
+- In each component do not forget make export `export default [component name]`
 - If the jsx code is in one simple line, then parancetes do not need, other case the code should be inside of `(`...`)`
-- React elements can be add into any component with using `{`...`}`
+- React elements could be added into any component with using `{`...`}`
 - All atributes should have the name considering camelCase ( arrItem, sampleSample, etc... )
 - All `jsx` atributes have the same name as in `HTML`, exept `className` (it is class in HTML) and `htmlFor` (it is for loop in html)
 - To create a production build, use `npm run build` 
+
+- the demo live link: https://react-reduc-tutorial.netlify.app/
