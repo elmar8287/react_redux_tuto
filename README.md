@@ -27,6 +27,7 @@
 - Keep all components in folder `src/components`
 - Give name for components using `kebab style`, aka sample-sample-etc...
 - In each component do not forget make export `export default [component name]`
+- Do not forget to `import` all components in `index.js` file
 - If the jsx code is in one simple line, then parancetes do not need, other case the code should be inside of `(`...`)`
 - React elements could be added into any component with using `{`...`}`
 - All atributes should have the name considering camelCase ( arrItem, sampleSample, etc... )
