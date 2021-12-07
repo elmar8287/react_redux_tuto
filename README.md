@@ -19,4 +19,13 @@
 - Clear `src` folder exept `index.js` file. (you will have something like this)
 <br><br>![screen](./public/assets/structure.PNG)
 ### We can start
+
+- You shoul use `import React from 'react'` evertwhere `jsx` using
+- Use arrow functions
+- Div the app to components
+- Use Uppercase names for components (sample: <Sample />)
+- If the jsx code is in one simple line, then parancetes do not need, other case the code should be inside of `(`...`)`
+- React elements can be add into any component with using `{`...`}`
+- All atributes should have the name considering camelCase ( arrItem, sampleSample, etc... )
+- All `jsx` atributes have the same name as in `HTML`, exept `className` (it is class in HTML) and `htmlFor` (it is for loop in html)
 - To create a production build, use `npm run build` 

@@ -1,1 +1,1 @@
-all screenshots width is 300px
+all screenshot`s width is 300px
