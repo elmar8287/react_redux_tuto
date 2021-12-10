@@ -36,6 +36,8 @@
 - Give ID for your elements, because React need to know what to update - for fast updating
 - Call your `CSS` files as the name of components
 - Make refactoring: insert each component in folder called like component (maybe webpack need to restart `npm start`)
+- Make also refactoring for App
+- For usinf State we should use Classes
 
 
 - To create a production build, use `npm run build` 
