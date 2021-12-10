@@ -35,6 +35,7 @@
 - Use spread operators https://www.educative.io/edpresso/what-is-the-spread-operator-in-javascript
 - Give ID for your elements, because React need to know what to update - for fast updating
 - Call your `CSS` files as the name of components
+- Make refactoring: insert each component in folder called like component (maybe webpack need to restart `npm start`)
 
 
 - To create a production build, use `npm run build` 
