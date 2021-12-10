@@ -37,7 +37,7 @@
 - Call your `CSS` files as the name of components
 - Make refactoring: insert each component in folder called like component (maybe webpack need to restart `npm start`)
 - Make also refactoring for App
-- For usinf State we should use Classes
+- For need State for component, we should use Classes (refactoring with Classes)
 
 
 - To create a production build, use `npm run build` 
