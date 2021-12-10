@@ -32,6 +32,11 @@
 - React elements could be added into any component with using `{`...`}`
 - All atributes should have the name considering camelCase ( arrItem, sampleSample, etc... )
 - All `jsx` atributes have the same name as in `HTML`, exept `className` (it is class in HTML) and `htmlFor` (it is for loop in html)
+- Use spread operators https://www.educative.io/edpresso/what-is-the-spread-operator-in-javascript
+- Give ID for your elements, because React need to know what to update - for fast updating
+- Call your `CSS` files as the name of components
+
+
 - To create a production build, use `npm run build` 
 
 - the demo live link: https://react-reduc-tutorial.netlify.app/
