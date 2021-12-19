@@ -38,6 +38,7 @@
 - Make refactoring: insert each component in folder called like component (maybe webpack need to restart `npm start`)
 - Make also refactoring for App
 - For need State for component, we should use Classes (refactoring with Classes)
+- For update the state use `setState`
 
 
 - To create a production build, use `npm run build` 

@@ -1,7 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import './app.css';
-
 import AppHeader from '../app-header';
 import SearchPanel from '../search-input';
 import TodoList from '../todo-list';

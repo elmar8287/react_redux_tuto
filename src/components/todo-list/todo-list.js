@@ -6,7 +6,8 @@ const TodoList = ( {todos} ) => {
   const elements = todos.map((item) => {
     return (
     <li key = { item.id } className = "list-group-item">
-      <TodoListItem { ...item } />
+      <TodoListItem { ...item }
+      onDeleted={() => console.log('Deleted')}/>
     </li>
     );
   });

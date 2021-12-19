@@ -7,3 +7,11 @@
 .list-item {
   justify-content: space-between;
 }
+
+.done {
+  text-decoration: line-through;
+}
+
+.important {
+  font-weight: 700;
+}
