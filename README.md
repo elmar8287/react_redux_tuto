@@ -40,6 +40,8 @@
 - For need State for component, we should use Classes (refactoring with Classes)
 - For update the state use `setState`
 
+- For install Bootstrap use this command `npm install react-bootstrap`
+
 
 - To create a production build, use `npm run build` 
 
